@@ -1,0 +1,19 @@
+/*Importando google fonte*/
+@import url("https://fonts.googleapis.com/css2?family=inter:wght@400;500;600;700&display=swap");
+
+:root{
+    --nav-bg-color: green;
+    --nav-text-color: white;
+    --hover-color: #d8d804;
+}
+
+header{
+    position: relative;
+    padding: 0 2rem;
+    border-bottom: 1px solid #fd6c04 ;
+}
+
+nav{
+    display: flex;
+    align-items: center
+}
